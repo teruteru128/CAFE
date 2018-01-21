@@ -3,6 +3,9 @@ CAFE
 
 CAFE(Creator's Advanced Film Editor)は、AviUtlの後継として考案されたプロジェクトです。
 
+## Releases
+https://github.com/aoitofu/CAFE/releases
+
 ## Description
 
 現在開発中です。
@@ -45,7 +48,9 @@ freetypeは手動でインストールしてください。
 * opengl
 * sdl2
 
-brew : `brew install freetype; brew install openal; brew install sdl2`
+homebrewを使用したライブラリのインストール方法:
+`brew install freetype; brew install openal; brew install sdl2`
+
 
 ### Compiler and BuildTool
 
