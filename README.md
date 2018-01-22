@@ -1,7 +1,7 @@
 CAFE
 ====
 
-CAFE(Creator's Advanced Film Editor)は、AviUtlの後継として考案されたプロジェクトです。
+CAFE(Creator's Advanced Film Editor)は、AviUtlの後継を目指し考案された動画編集ソフトです。
 
 ## Releases
 https://github.com/aoitofu/CAFE/releases
